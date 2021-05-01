@@ -16,13 +16,13 @@ In the original _The Conquerors_, you could write random map scripts to define y
 
 ## Tools
 
-# Random Map Script Generator
+### Random Map Script Generator
 Generates random map scripts. 
 
-# SaveGame Tool
+### SaveGame Tool
 Extracts information from Savegame files (.mgz, .mgx). Apparently the ingame chat history only.
 
-# AOK Trigger Studio (AOKTS)
+### AOK Trigger Studio (AOKTS)
 Powerful external scenario editor tool. Supports copying triggers, garrisoning units within other units, etc.
 Strong recommendation if you are into scenario editing. Supports _Definitive Edition_ scenarios.
 https://github.com/mullikine/aokts
